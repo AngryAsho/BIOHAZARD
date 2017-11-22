@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EX3_Crooked_Ex
+namespace EX3_Crooked_EX
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Console.WriteLine("This EX was crooked");
         }
     }
 }
